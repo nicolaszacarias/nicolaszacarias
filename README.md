@@ -14,7 +14,7 @@ I'm passionate about new challenges, generate solutions, propose new ideas, and 
 🐱Git | Github
 
 📌Projects
-Dog Api (Henry Project)
+### Dog Api (Henry Project)
 <img src='landingDogs.png' alt='PI_dogs' height='100'> <img src='homeDogs.png' alt='PI_dogs' height='100'> <img src='createdog.png' alt='PI_dogs' height='100'>
 
 ### Ecom App
